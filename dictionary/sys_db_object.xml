@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ref_ac_columns_search=true,update_synch=true,no_labels=true,ref_ac_columns=name,ref_auto_completer=AJAXTableCompleter,file_root=true" extends="sys_metadata" label="Table" max_length="40" name="sys_db_object" text_index="true" type="collection">
+        <element label="Date and Time Opened" max_length="40" name="x_58872_needit_date_and_time_opened" type="glide_date_time"/>
+        <element label="Date Time assigned to L2" max_length="40" name="x_58872_needit_date_time_assigned_to_l2" type="glide_date_time"/>
+        <element label="Pick up time by 2nd Level" max_length="40" name="x_58872_needit_pick_up_time_by_2nd_level" type="glide_date_time"/>
+        <element label="Target Date of Completion" max_length="40" name="x_58872_needit_target_date_of_completion" type="glide_date_time"/>
+    </element>
+</database>

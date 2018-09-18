@@ -34,5 +34,23 @@
         <update_access>false</update_access>
         <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
         <ws_access>true</ws_access>
+        <x_58872_needit_aging/>
+        <x_58872_needit_assigned_group/>
+        <x_58872_needit_assigned_to/>
+        <x_58872_needit_category/>
+        <x_58872_needit_date_and_time_opened/>
+        <x_58872_needit_date_time_assigned_to_l2/>
+        <x_58872_needit_item/>
+        <x_58872_needit_last_action/>
+        <x_58872_needit_office/>
+        <x_58872_needit_opened_by/>
+        <x_58872_needit_pick_up_time_by_2nd_level/>
+        <x_58872_needit_requester/>
+        <x_58872_needit_service/>
+        <x_58872_needit_severity/>
+        <x_58872_needit_sr/>
+        <x_58872_needit_sr_description/>
+        <x_58872_needit_status/>
+        <x_58872_needit_target_date_of_completion/>
     </sys_db_object>
 </record_update>
